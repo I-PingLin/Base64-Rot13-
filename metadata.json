@@ -1,0 +1,5 @@
+{
+  "name": "Base64/Rot13 Obfuscation Attack Tool",
+  "description": "A tool to encode instructions using Base64 or Rot13 and send them to a language model to test its vulnerability to obfuscation attacks. This is for educational and security research purposes.",
+  "requestFramePermissions": []
+}
